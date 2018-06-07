@@ -14,14 +14,14 @@ New Uris for this repos
 -----------------------
 
 For webview, replace
-https://github.com/mbasaglia/<repo> with
-https://gitlab.com/mattia.basaglia/<repo>
+https://github.com/mbasaglia/Python-Turing-Machine with
+https://gitlab.com/mattia.basaglia/Python-Turing-Machine
 
 For SSH remotes replace
-`git@github.com:mbasaglia/<repo>.git` with
-`git@gitlab.com:mattia.basaglia/<repo>.git`
+`git@github.com:mbasaglia/Python-Turing-Machine.git` with
+`git@gitlab.com:mattia.basaglia/Python-Turing-Machine.git`
 
 For HTTPS remotes replace
-`https://github.com/mbasaglia/<repo>.git` with
-`https://gitlab.com/mattia.basaglia/<repo>.git`
+`https://github.com/mbasaglia/Python-Turing-Machine.git` with
+`https://gitlab.com/mattia.basaglia/Python-Turing-Machine.git`
 
